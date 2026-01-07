@@ -1,6 +1,6 @@
 # 👋 Hi, I'm CyberKing
 
-🎓 Cybersecurity Student | Aspiring Blue Team / SOC Analyst
+🎓 Cybersecurity Enthusiast | Aspiring Blue Team / SOC Analyst
 
 ---
 
