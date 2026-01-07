@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CyberKing
+# 👋 Hi, I'm CyberSecOm
 
 🎓 Cybersecurity Enthusiast | Aspiring Blue Team / SOC Analyst
 
