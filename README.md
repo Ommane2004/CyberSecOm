@@ -5,7 +5,7 @@
 ---
 
 ## 🔐 About Me
-I am a cybersecurity student focused on building strong fundamentals in defensive
+I am a cybersecurity Enthusiast focused on building strong fundamentals in defensive
 security. I am currently learning networking, Linux, and web security while gaining
 hands-on experience through labs and small security-related projects.
 
